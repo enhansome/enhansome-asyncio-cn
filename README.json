@@ -1,0 +1,794 @@
+{
+  "items": [
+    {
+      "description": "构建 Web 应用的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sanic",
+          "description": "Python 3.5+ Web 服务器，主打速度与性能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T03:09:51Z",
+            "owner": "sanic-org",
+            "repo": "sanic",
+            "stars": 18646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiohttp",
+          "description": "支持 Asyncio (PEP-3156) 的 HTTP 客户端/服务端网络库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T13:59:30Z",
+            "owner": "aio-libs",
+            "repo": "aiohttp",
+            "stars": 16524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uvicorn",
+          "description": "轻量级的，快速的 ASGI 服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:47:26Z",
+            "owner": "Kludex",
+            "repo": "uvicorn",
+            "stars": 10902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Japronto!",
+          "description": "基于 uvloop 和 picohttpparse 构建的实验性 HTTP 工具箱。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-14T21:42:00Z",
+            "owner": "squeaky-pl",
+            "repo": "japronto",
+            "stars": 8532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websockets",
+          "description": "Python 构建的 WebSocket 客户端/服务端的库，致力于简洁、正确地编写代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:18:46Z",
+            "owner": "python-websockets",
+            "repo": "websockets",
+            "stars": 5713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autobahn",
+          "description": "支持 Asyncio 与 Twisted 的 WebSocket 及 WAMP，用于客户端与服务端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T18:49:29Z",
+            "owner": "crossbario",
+            "repo": "autobahn-python",
+            "stars": 2541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyoukai",
+          "description": "使用 Asyncio 编写的 Python3.5+ 完全异步 Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-02-08T01:03:48Z",
+            "owner": "Fuyukai",
+            "repo": "Kyoukai",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cirrina",
+          "description": "基于 aiohttp 的异步 Web 框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-11T09:00:34Z",
+            "owner": "neolynx",
+            "repo": "cirrina",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Web框架"
+    },
+    {
+      "description": "使用消息队列执行应用的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crossbar",
+          "description": "Crossbar.io 是提供分布式和微服务应用的网络平台。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:17:19Z",
+            "owner": "crossbario",
+            "repo": "crossbar",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiozmq",
+          "description": "集成了 Asyncio (pep 3156) 的 ZeroMQ。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T15:49:32Z",
+            "owner": "aio-libs",
+            "repo": "aiozmq",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioamqp",
+          "description": "使用 Asyncio 异步执行 AMQP。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-19T09:54:20Z",
+            "owner": "Polyconseil",
+            "repo": "aioamqp",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "消息队列"
+    },
+    {
+      "description": "数据库的驱动库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "asyncpg",
+          "description": "快速访问 PostgreSQL 数据库客户端的异步驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T20:48:41Z",
+            "owner": "MagicStack",
+            "repo": "asyncpg",
+            "stars": 8065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GINO",
+          "description": "基于 SQLAlchemy Core 和 asyncpg 方言的轻量级 Python 异步 ORM。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-12T20:35:18Z",
+            "owner": "python-gino",
+            "repo": "gino",
+            "stars": 2794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motor",
+          "description": "访问 MongoDB 数据库的异步驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:12:35Z",
+            "owner": "mongodb",
+            "repo": "motor",
+            "stars": 2527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioredis",
+          "description": "aio-libs 提供的异步 Redis 客户端 (PEP 3156)。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-02-20T15:57:25Z",
+            "owner": "aio-libs-abandoned",
+            "repo": "aioredis-py",
+            "stars": 2283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiomysql",
+          "description": "访问 MySQL 数据库的异步驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T01:52:43Z",
+            "owner": "aio-libs",
+            "repo": "aiomysql",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiocache",
+          "description": "支持多个后端 (Memory、Redis 和 Memcached) 的 Asyncio 缓存管理器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T20:08:27Z",
+            "owner": "aio-libs",
+            "repo": "aiocache",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiopg",
+          "description": "访问 PostgreSQL 数据库的异步驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T21:01:33Z",
+            "owner": "aio-libs",
+            "repo": "aiopg",
+            "stars": 1432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peewee-async",
+          "description": "基于 peewee 和 aiopg 实现的 ORM。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:38:30Z",
+            "owner": "05bit",
+            "repo": "peewee-async",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asyncio-redis",
+          "description": "访问 Redis 客户端 (PEP 3156)的异步驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-11T13:56:53Z",
+            "owner": "jonathanslenders",
+            "repo": "asyncio-redis",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asyncpgsa",
+          "description": "提供 Sqlalchemy Core 支持的 Asyncpg。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-17T13:41:22Z",
+            "owner": "CanopyTax",
+            "repo": "asyncpgsa",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioodbc",
+          "description": "访问 ODBC 数据库的异步驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T21:35:34Z",
+            "owner": "aio-libs",
+            "repo": "aioodbc",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioinflux",
+          "description": "基于 aiohttp 构建的 InfluxDB 客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-05T06:01:48Z",
+            "owner": "gusutabopb",
+            "repo": "aioinflux",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiomcache",
+          "description": "访问 Memcached 的 Asyncio(PEP 3156) 驱动库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T15:48:07Z",
+            "owner": "aio-libs",
+            "repo": "aiomcache",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioes",
+          "description": "兼容 elasticsearch 的 Asyncio 驱动。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-04-29T06:12:23Z",
+            "owner": "aio-libs-abandoned",
+            "repo": "aioes",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiocouchdb",
+          "description": "基于 aiohttp (Asyncio) 构建的 CouchDB 客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-09T08:36:04Z",
+            "owner": "aio-libs",
+            "repo": "aiocouchdb",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "数据库驱动"
+    },
+    {
+      "description": "网络通讯库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "websockets",
+          "description": "构建于 Asyncio 之上的异步 websockets 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:18:46Z",
+            "owner": "python-websockets",
+            "repo": "websockets",
+            "stars": 5713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncSSH",
+          "description": "提供执行 SSHv2 协议的异步客户端/服务端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T22:12:17Z",
+            "owner": "ronf",
+            "repo": "asyncssh",
+            "stars": 1751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiodns",
+          "description": "简单的 Asyncio DNS 服务解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T15:36:56Z",
+            "owner": "aio-libs",
+            "repo": "aiodns",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asks",
+          "description": "与 requests 接口相似的异步 HTTP 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-17T11:06:32Z",
+            "owner": "theelous3",
+            "repo": "asks",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioftp",
+          "description": "基于 Asyncio 的 ftp 服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:45:54Z",
+            "owner": "aio-libs",
+            "repo": "aioftp",
+            "stars": 210
+          }
+        }
+      ],
+      "title": "网络"
+    },
+    {
+      "description": "应用于网络爬虫的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scrapy",
+          "description": "一个为了爬取网站数据，提取结构性数据而编写的应用框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T09:25:35Z",
+            "owner": "scrapy",
+            "repo": "scrapy",
+            "stars": 63842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aspider",
+          "description": "基于 Asyncio 和 aiohttp 的网络爬虫框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-01T08:23:28Z",
+            "owner": "howie6879",
+            "repo": "ruia",
+            "stars": 1737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gain",
+          "description": "基于 Asycnio 的网络爬虫框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-17T17:08:33Z",
+            "owner": "gaojiuli",
+            "repo": "gain",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "爬虫"
+    },
+    {
+      "description": "测试 Asyncio 应用程序的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytest-asyncio",
+          "description": "支持 Asyncio 的 Pytest 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:42:27Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-asyncio",
+            "stars": 1656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioresponses",
+          "description": "一个适用于 aiohttp 的模拟请求库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T21:15:11Z",
+            "owner": "pnuckowski",
+            "repo": "aioresponses",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asynctest",
+          "description": "一个增强标准 unittest 包的测试库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-22T12:09:21Z",
+            "owner": "Martiusweb",
+            "repo": "asynctest",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiomock",
+          "description": "支持异步的 Python mock 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-19T04:04:47Z",
+            "owner": "nhumrich",
+            "repo": "aiomock",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "测试"
+    },
+    {
+      "description": "备选的 Asyncio 循环库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uvloop",
+          "description": "基于 libuv 实现的 Asyncio 事件循环库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2026-07-14T16:30:56Z",
+            "owner": "MagicStack",
+            "repo": "uvloop",
+            "stars": 11885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trio",
+          "description": "人性化的，Pythonic 的异步 IO 库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:45:57Z",
+            "owner": "python-trio",
+            "repo": "trio",
+            "stars": 7306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curio",
+          "description": "协程并发库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-21T15:48:55Z",
+            "owner": "dabeaz",
+            "repo": "curio",
+            "stars": 4126
+          }
+        }
+      ],
+      "title": "备选事件循环"
+    },
+    {
+      "description": "并行异步编程的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aiomultiprocess",
+          "description": "进一步提升异步性能的多进程库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T15:43:49Z",
+            "owner": "omnilib",
+            "repo": "aiomultiprocess",
+            "stars": 1925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asynq",
+          "description": "Quora 出品的 Python 异步编程库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:15:54Z",
+            "owner": "quora",
+            "repo": "asynq",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aioprocessing",
+          "description": "结合 multiprocessing 与 Asyncio 的进程库，支持 Python3.4+。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-16T02:30:02Z",
+            "owner": "dano",
+            "repo": "aioprocessing",
+            "stars": 659
+          }
+        }
+      ],
+      "title": "并行"
+    },
+    {
+      "description": "未归类的优秀 Asnycio 库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "faust",
+          "description": "纯 Python 的流处理库，用于处理流数据和事件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-27T10:27:41Z",
+            "owner": "robinhood",
+            "repo": "faust",
+            "stars": 6823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiofiles",
+          "description": "基于 Asyncio，支持文件异步操作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T20:20:36Z",
+            "owner": "Tinche",
+            "repo": "aiofiles",
+            "stars": 3253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiorun",
+          "description": "提供处理通用 Asyncio 样板，启动和关闭事件驱动的 函数。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:02:46Z",
+            "owner": "cjrh",
+            "repo": "aiorun",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paco",
+          "description": "协程驱动的异步编程的工具库 (Python3.4+)。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-24T17:35:57Z",
+            "owner": "h2non",
+            "repo": "paco",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiozipkin",
+          "description": "使用 zipkin 的分布式 Asyncio 追踪测量仪。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:27:19Z",
+            "owner": "aio-libs",
+            "repo": "aiozipkin",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiotools",
+          "description": "通用的 Asyncio 工具集。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T07:14:04Z",
+            "owner": "achimnol",
+            "repo": "aiotools",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiortc",
+          "description": "使用 Python asyncio 实现的 WebRTC 和 ORTC。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T19:14:05Z",
+            "owner": "jlaine",
+            "repo": "aiortc",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiodebug",
+          "description": "用于监控和测试 Asyncio 程序的微型库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-04T11:03:50Z",
+            "owner": "qntln",
+            "repo": "aiodebug",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "其他"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:20:16.738Z",
+    "original_repository": "chenjiandongx/awesome-asyncio-cn",
+    "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",
+    "enhanced_repository": "enhansome/enhansome-asyncio-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome asyncio cn with stars"
+  }
+}
