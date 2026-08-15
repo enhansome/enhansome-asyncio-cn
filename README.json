@@ -14,7 +14,7 @@
             "last_commit": "2026-07-29T03:09:51Z",
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18646
+            "stars": 18645
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:59:30Z",
+            "last_commit": "2026-08-15T00:46:05Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16524
+            "stars": 16525
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-13T16:47:26Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10902
+            "stars": 10904
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-10T19:18:46Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5713
+            "stars": 5714
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-10T19:12:35Z",
             "owner": "mongodb",
             "repo": "motor",
-            "stars": 2527
+            "stars": 2526
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-06-28T20:08:27Z",
             "owner": "aio-libs",
             "repo": "aiocache",
-            "stars": 1437
+            "stars": 1438
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-10T19:18:46Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5713
+            "stars": 5714
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2026-08-14T09:25:35Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63842
+            "stars": 63859
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2026-07-14T16:30:56Z",
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11885
+            "stars": 11884
           }
         },
         {
@@ -784,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:20:16.738Z",
+    "last_updated": "2026-08-15T13:44:12.338Z",
     "original_repository": "chenjiandongx/awesome-asyncio-cn",
     "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",
     "enhanced_repository": "enhansome/enhansome-asyncio-cn",
