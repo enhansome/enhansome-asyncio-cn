@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:15:46Z",
+            "last_commit": "2026-08-17T13:14:45Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16523
+            "stars": 16522
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:03:04Z",
+            "last_commit": "2026-08-16T19:07:08Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10909
+            "stars": 10906
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-02-27T20:48:41Z",
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8065
+            "stars": 8067
           }
         },
         {
@@ -205,7 +205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T19:12:35Z",
+            "last_commit": "2026-08-17T10:25:23Z",
             "owner": "mongodb",
             "repo": "motor",
             "stars": 2526
@@ -250,7 +250,7 @@
             "last_commit": "2026-06-28T20:08:27Z",
             "owner": "aio-libs",
             "repo": "aiocache",
-            "stars": 1438
+            "stars": 1436
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T12:38:30Z",
+            "last_commit": "2026-08-17T00:33:16Z",
             "owner": "05bit",
             "repo": "peewee-async",
             "stars": 763
@@ -469,10 +469,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:44:48Z",
+            "last_commit": "2026-08-17T12:33:27Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63871
+            "stars": 63897
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2026-08-11T00:45:57Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7305
+            "stars": 7301
           }
         },
         {
@@ -784,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:45:10.270Z",
+    "last_updated": "2026-08-17T13:53:23.553Z",
     "original_repository": "chenjiandongx/awesome-asyncio-cn",
     "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",
     "enhanced_repository": "enhansome/enhansome-asyncio-cn",
