@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T06:01:10Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10909
+            "stars": 10910
           }
         },
         {
@@ -501,10 +501,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-19T11:42:18Z",
+            "last_commit": "2026-08-19T12:52:32Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63958
+            "stars": 63959
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:28.076Z",
+    "last_updated": "2026-08-19T13:58:00.113Z",
     "original_repository": "chenjiandongx/awesome-asyncio-cn",
     "original_repository_id": 143005431,
     "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",

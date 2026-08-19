@@ -49,7 +49,7 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 * [sanic](https://github.com/channelcat/sanic) ⭐ 18,643 | 🐛 146 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ Web 服务器，主打速度与性能。
 * [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,528 | 🐛 249 | 🌐 Python | 📅 2026-08-19 - 支持 Asyncio (PEP-3156) 的 HTTP 客户端/服务端网络库。
-* [uvicorn](https://github.com/encode/uvicorn) ⭐ 10,909 | 🐛 82 | 🌐 Python | 📅 2026-08-19 - 轻量级的，快速的 ASGI 服务器。
+* [uvicorn](https://github.com/encode/uvicorn) ⭐ 10,910 | 🐛 82 | 🌐 Python | 📅 2026-08-19 - 轻量级的，快速的 ASGI 服务器。
 * [Japronto!](https://github.com/squeaky-pl/japronto) ⭐ 8,532 | 🐛 91 | 🌐 C | 📅 2023-08-14 - 基于 uvloop 和 picohttpparse 构建的实验性 HTTP 工具箱。
 * [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,712 | 🐛 1 | 🌐 Python | 📅 2026-08-19 - Python 构建的 WebSocket 客户端/服务端的库，致力于简洁、正确地编写代码。
 * [autobahn](https://github.com/crossbario/autobahn-python) ⭐ 2,543 | 🐛 187 | 🌐 Python | 📅 2026-07-15 - 支持 Asyncio 与 Twisted 的 WebSocket 及 WAMP，用于客户端与服务端。
@@ -100,7 +100,7 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *应用于网络爬虫的库*
 
-* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 63,958 | 🐛 477 | 🌐 Python | 📅 2026-08-19 - 一个为了爬取网站数据，提取结构性数据而编写的应用框架。
+* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 63,959 | 🐛 477 | 🌐 Python | 📅 2026-08-19 - 一个为了爬取网站数据，提取结构性数据而编写的应用框架。
 * [aspider](https://github.com/howie6879/aspider) ⭐ 1,737 | 🐛 9 | 🌐 Python | 📅 2023-07-01 - 基于 Asyncio 和 aiohttp 的网络爬虫框架。
 * [gain](https://github.com/gaojiuli/gain) ⭐ 0 | 🐛 0 | 📅 2025-08-17 - 基于 Asycnio 的网络爬虫框架。
 
