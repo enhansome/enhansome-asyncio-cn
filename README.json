@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T03:09:51Z",
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18643
+            "stars": 18644
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-21T11:06:26Z",
+            "last_commit": "2026-08-22T03:10:58Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16527
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-19T06:01:10Z",
+            "last_commit": "2026-08-22T12:01:01Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10918
+            "stars": 10921
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-21T07:32:08Z",
+            "last_commit": "2026-08-22T06:23:39Z",
             "owner": "python-websockets",
             "repo": "websockets",
             "stars": 5714
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-21T07:32:08Z",
+            "last_commit": "2026-08-22T06:23:39Z",
             "owner": "python-websockets",
             "repo": "websockets",
             "stars": 5714
@@ -468,7 +468,7 @@
             "last_commit": "2022-05-17T11:06:32Z",
             "owner": "theelous3",
             "repo": "asks",
-            "stars": 512
+            "stars": 511
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-21T12:56:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 63982
+            "stars": 63997
           }
         },
         {
@@ -552,7 +552,7 @@
             "archived": false,
             "id": 33756412,
             "language": "Python",
-            "last_commit": "2026-08-19T19:16:44Z",
+            "last_commit": "2026-08-21T19:03:00Z",
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
             "stars": 1657
@@ -621,7 +621,7 @@
             "last_commit": "2026-07-14T16:30:56Z",
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11885
+            "stars": 11884
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-18T00:29:06Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7304
+            "stars": 7305
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2025-12-21T15:48:55Z",
             "owner": "dabeaz",
             "repo": "curio",
-            "stars": 4125
+            "stars": 4124
           }
         }
       ],
@@ -738,7 +738,7 @@
             "last_commit": "2026-07-18T20:20:36Z",
             "owner": "Tinche",
             "repo": "aiofiles",
-            "stars": 3254
+            "stars": 3255
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:58:41.308Z",
+    "last_updated": "2026-08-22T13:44:55.249Z",
     "original_repository": "chenjiandongx/awesome-asyncio-cn",
     "original_repository_id": 143005431,
     "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",
