@@ -27,10 +27,10 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-23T04:25:43Z",
+            "last_commit": "2026-08-24T11:00:46Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16525
+            "stars": 16527
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-23T06:19:31Z",
+            "last_commit": "2026-08-24T13:03:17Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10923
+            "stars": 10924
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-08-14T21:42:00Z",
             "owner": "squeaky-pl",
             "repo": "japronto",
-            "stars": 8531
+            "stars": 8530
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-23T05:45:15Z",
+            "last_commit": "2026-08-24T12:33:38Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5713
+            "stars": 5714
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 24544015,
             "language": "Python",
-            "last_commit": "2026-08-19T00:33:01Z",
+            "last_commit": "2026-08-24T00:33:19Z",
             "owner": "05bit",
             "repo": "peewee-async",
             "stars": 763
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-23T05:45:15Z",
+            "last_commit": "2026-08-24T12:33:38Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5713
+            "stars": 5714
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-11T11:45:54Z",
             "owner": "aio-libs",
             "repo": "aioftp",
-            "stars": 210
+            "stars": 211
           }
         }
       ],
@@ -501,10 +501,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-23T10:01:03Z",
+            "last_commit": "2026-08-24T12:29:41Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64008
+            "stars": 64015
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:46:24.733Z",
+    "last_updated": "2026-08-24T14:23:42.437Z",
     "original_repository": "chenjiandongx/awesome-asyncio-cn",
     "original_repository_id": 143005431,
     "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",
