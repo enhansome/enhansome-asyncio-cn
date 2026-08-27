@@ -27,7 +27,7 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-27T11:06:21Z",
+            "last_commit": "2026-08-27T22:22:45Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16529
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-26T06:06:33Z",
+            "last_commit": "2026-08-27T16:01:19Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5714
+            "stars": 5715
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-02-27T20:48:41Z",
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8075
+            "stars": 8076
           }
         },
         {
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 9113587,
             "language": "Python",
-            "last_commit": "2026-08-26T06:06:33Z",
+            "last_commit": "2026-08-27T16:01:19Z",
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5714
+            "stars": 5715
           }
         },
         {
@@ -501,10 +501,10 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-26T16:38:28Z",
+            "last_commit": "2026-08-27T12:02:20Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64051
+            "stars": 64064
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-27T03:44:56Z",
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7307
+            "stars": 7308
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:24.539Z",
+    "last_updated": "2026-08-27T22:57:54.220Z",
     "original_repository_info": {
       "archived": false,
       "id": 143005431,
