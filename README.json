@@ -15,8 +15,9 @@
             "last_commit": "2026-07-29T03:09:51Z",
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18645
-          }
+            "stars": 18646
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-27T22:22:45Z",
+            "last_commit": "2026-08-28T22:58:39Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16529
-          }
+            "stars": 16531
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 92946971,
             "language": "Python",
-            "last_commit": "2026-08-24T13:03:17Z",
+            "last_commit": "2026-08-28T22:48:46Z",
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10928
-          }
+            "stars": 10933
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "squeaky-pl",
             "repo": "japronto",
             "stars": 8530
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "python-websockets",
             "repo": "websockets",
             "stars": 5715
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "crossbario",
             "repo": "autobahn-python",
             "stars": 2543
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Fuyukai",
             "repo": "Kyoukai",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "neolynx",
             "repo": "cirrina",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "Web框架"
@@ -142,7 +150,8 @@
             "owner": "crossbario",
             "repo": "crossbar",
             "stars": 2064
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "aio-libs",
             "repo": "aiozmq",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Polyconseil",
             "repo": "aioamqp",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "消息队列"
@@ -192,8 +203,9 @@
             "last_commit": "2026-02-27T20:48:41Z",
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8076
-          }
+            "stars": 8079
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2022-02-12T20:35:18Z",
             "owner": "python-gino",
             "repo": "gino",
-            "stars": 2793
-          }
+            "stars": 2792
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "mongodb",
             "repo": "motor",
             "stars": 2526
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "aio-libs-abandoned",
             "repo": "aioredis-py",
             "stars": 2282
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -252,8 +267,9 @@
             "last_commit": "2026-03-27T01:52:43Z",
             "owner": "aio-libs",
             "repo": "aiomysql",
-            "stars": 1896
-          }
+            "stars": 1897
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "aio-libs",
             "repo": "aiocache",
             "stars": 1438
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -282,8 +299,9 @@
             "last_commit": "2025-12-03T21:01:33Z",
             "owner": "aio-libs",
             "repo": "aiopg",
-            "stars": 1431
-          }
+            "stars": 1432
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -294,11 +312,12 @@
             "archived": false,
             "id": 24544015,
             "language": "Python",
-            "last_commit": "2026-08-27T00:33:40Z",
+            "last_commit": "2026-08-28T09:33:51Z",
             "owner": "05bit",
             "repo": "peewee-async",
             "stars": 763
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "jonathanslenders",
             "repo": "asyncio-redis",
             "stars": 549
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -327,8 +347,9 @@
             "last_commit": "2024-02-17T13:41:22Z",
             "owner": "CanopyTax",
             "repo": "asyncpgsa",
-            "stars": 507
-          }
+            "stars": 506
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "aio-libs",
             "repo": "aioodbc",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "gusutabopb",
             "repo": "aioinflux",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "aio-libs",
             "repo": "aiomcache",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "aio-libs-abandoned",
             "repo": "aioes",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "aio-libs",
             "repo": "aiocouchdb",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "数据库驱动"
@@ -424,7 +450,8 @@
             "owner": "python-websockets",
             "repo": "websockets",
             "stars": 5715
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -438,8 +465,9 @@
             "last_commit": "2026-08-16T00:03:07Z",
             "owner": "ronf",
             "repo": "asyncssh",
-            "stars": 1753
-          }
+            "stars": 1754
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "aio-libs",
             "repo": "aiodns",
             "stars": 592
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "theelous3",
             "repo": "asks",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "aio-libs",
             "repo": "aioftp",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "网络"
@@ -501,11 +532,12 @@
             "archived": false,
             "id": 529502,
             "language": "Python",
-            "last_commit": "2026-08-27T12:02:20Z",
+            "last_commit": "2026-08-28T09:53:19Z",
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64064
-          }
+            "stars": 64082
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "howie6879",
             "repo": "ruia",
             "stars": 1738
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "gaojiuli",
             "repo": "gain",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "爬虫"
@@ -555,8 +589,9 @@
             "last_commit": "2026-08-26T19:16:01Z",
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
-            "stars": 1658
-          }
+            "stars": 1659
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "pnuckowski",
             "repo": "aioresponses",
             "stars": 557
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "Martiusweb",
             "repo": "asynctest",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "nhumrich",
             "repo": "aiomock",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "测试"
@@ -621,8 +659,9 @@
             "last_commit": "2026-07-14T16:30:56Z",
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11888
-          }
+            "stars": 11890
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -637,7 +676,8 @@
             "owner": "python-trio",
             "repo": "trio",
             "stars": 7308
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -652,7 +692,8 @@
             "owner": "dabeaz",
             "repo": "curio",
             "stars": 4125
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "备选事件循环"
@@ -673,7 +714,8 @@
             "owner": "omnilib",
             "repo": "aiomultiprocess",
             "stars": 1926
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "quora",
             "repo": "asynq",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "dano",
             "repo": "aioprocessing",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "并行"
@@ -724,7 +768,8 @@
             "owner": "robinhood",
             "repo": "faust",
             "stars": 6825
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -739,7 +784,8 @@
             "owner": "Tinche",
             "repo": "aiofiles",
             "stars": 3255
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -754,7 +800,8 @@
             "owner": "cjrh",
             "repo": "aiorun",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "h2non",
             "repo": "paco",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -784,7 +832,8 @@
             "owner": "aio-libs",
             "repo": "aiozipkin",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -799,7 +848,8 @@
             "owner": "achimnol",
             "repo": "aiotools",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -814,7 +864,8 @@
             "owner": "jlaine",
             "repo": "aiortc",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         },
         {
           "node_type": "item",
@@ -829,14 +880,15 @@
             "owner": "qntln",
             "repo": "aiodebug",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:02:57.142Z"
         }
       ],
       "title": "其他"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:57:54.220Z",
+    "last_updated": "2026-08-28T23:02:57.142Z",
     "original_repository_info": {
       "archived": false,
       "id": 143005431,
