@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Accelerate your web app development  | Build fast. Run fast.",
+            "homepage": "https://sanic.dev",
             "id": 59720190,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-29T03:09:51Z",
+            "open_issues": 146,
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18646
+            "stars": 18646,
+            "topics": [
+              "api-server",
+              "asgi",
+              "asyncio",
+              "framework",
+              "python",
+              "sanic",
+              "web",
+              "web-framework",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -26,12 +41,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+            "homepage": "https://docs.aiohttp.org",
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-28T22:58:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:18:24Z",
+            "open_issues": 225,
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16531
+            "stars": 16532,
+            "topics": [
+              "aiohttp",
+              "async",
+              "asyncio",
+              "hacktoberfest",
+              "http",
+              "http-client",
+              "http-server",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -42,12 +71,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ASGI web server, for Python. 🦄",
+            "homepage": "https://uvicorn.dev",
             "id": 92946971,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T22:48:46Z",
+            "open_issues": 87,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10933
+            "stars": 10933,
+            "topics": [
+              "asgi",
+              "asyncio",
+              "http",
+              "http-server",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -58,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+            "homepage": null,
             "id": 72039072,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-08-14T21:42:00Z",
+            "open_issues": 91,
             "owner": "squeaky-pl",
             "repo": "japronto",
-            "stars": 8530
+            "stars": 8530,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -74,12 +119,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for building WebSocket servers and clients in Python",
+            "homepage": "https://websockets.readthedocs.io/",
             "id": 9113587,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T16:01:19Z",
+            "open_issues": 1,
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5715
+            "stars": 5715,
+            "topics": [
+              "python",
+              "python3",
+              "websocket",
+              "websocket-client",
+              "websocket-library",
+              "websocket-server",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -90,12 +148,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebSocket and WAMP in Python for Twisted and asyncio",
+            "homepage": "https://autobahn.readthedocs.io/",
             "id": 2113510,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T18:49:29Z",
+            "open_issues": 187,
             "owner": "crossbario",
             "repo": "autobahn-python",
-            "stars": 2543
+            "stars": 2543,
+            "topics": [
+              "autobahn",
+              "pubsub",
+              "python",
+              "real-time",
+              "rpc",
+              "wamp",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -106,12 +177,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[OLD] A fully async web framework for Python3.5+ using asyncio",
+            "homepage": "https://mirai.veriny.tf",
             "id": 58387667,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-08T01:03:48Z",
+            "open_issues": 0,
             "owner": "Fuyukai",
             "repo": "Kyoukai",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "asyncio"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -122,12 +200,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cirrina is an opinionated asynchronous web framework based on aiohttp",
+            "homepage": null,
             "id": 71048656,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2024-06-11T09:00:34Z",
+            "open_issues": 3,
             "owner": "neolynx",
             "repo": "cirrina",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "aiohttp",
+              "authentication",
+              "framework",
+              "jrpc",
+              "json",
+              "python",
+              "rest",
+              "rpc",
+              "sessions",
+              "web",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -144,12 +239,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crossbar.io - WAMP application router",
+            "homepage": "https://crossbario.readthedocs.io/",
             "id": 13559106,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T05:17:19Z",
+            "open_issues": 305,
             "owner": "crossbario",
             "repo": "crossbar",
-            "stars": 2064
+            "stars": 2064,
+            "topics": [
+              "broker",
+              "messaging",
+              "mqtt",
+              "networking",
+              "networking-stack",
+              "rest",
+              "server",
+              "wamp",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -160,12 +270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asyncio (pep 3156) integration with ZeroMQ",
+            "homepage": "aiozmq.readthedocs.org",
             "id": 12610153,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-03-26T15:49:32Z",
+            "open_issues": 33,
             "owner": "aio-libs",
             "repo": "aiozmq",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "asyncio",
+              "zeromq",
+              "zmq"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -176,12 +295,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AMQP implementation using asyncio",
+            "homepage": null,
             "id": 17059992,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-19T09:54:20Z",
+            "open_issues": 35,
             "owner": "Polyconseil",
             "repo": "aioamqp",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "amqp",
+              "asyncio",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -198,12 +326,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+            "homepage": null,
             "id": 63652864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T20:48:41Z",
+            "open_issues": 300,
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8079
+            "stars": 8079,
+            "topics": [
+              "async-programming",
+              "async-python",
+              "asyncio",
+              "database-driver",
+              "high-performance",
+              "postgresql",
+              "python",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -214,12 +356,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.",
+            "homepage": "https://python-gino.org/",
             "id": 97905816,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-12T20:35:18Z",
+            "open_issues": 54,
             "owner": "python-gino",
             "repo": "gino",
-            "stars": 2792
+            "stars": 2792,
+            "topics": [
+              "asyncio",
+              "asyncpg",
+              "gino",
+              "hacktoberfest",
+              "orm",
+              "python3",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -230,12 +385,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Motor - the async Python driver for MongoDB and Tornado or asyncio",
+            "homepage": "https://motor.readthedocs.io",
             "id": 7567432,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T13:43:34Z",
+            "open_issues": 0,
             "owner": "mongodb",
             "repo": "motor",
-            "stars": 2526
+            "stars": 2526,
+            "topics": [
+              "async",
+              "mongodb",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -246,12 +410,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "asyncio (PEP 3156) Redis support",
+            "homepage": "https://aioredis.readthedocs.io/",
             "id": 20163574,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-20T15:57:25Z",
+            "open_issues": 95,
             "owner": "aio-libs-abandoned",
             "repo": "aioredis-py",
-            "stars": 2282
+            "stars": 2282,
+            "topics": [
+              "aioredis",
+              "asyncio",
+              "hacktoberfest",
+              "python",
+              "python-3",
+              "python3",
+              "python310",
+              "python36",
+              "python37",
+              "python38",
+              "python39",
+              "redis",
+              "redis-client",
+              "redis-sentinel"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -262,12 +446,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aiomysql is a library for accessing a MySQL database from the asyncio",
+            "homepage": "https://aiomysql.rtfd.io",
             "id": 28932001,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-27T01:52:43Z",
+            "open_issues": 117,
             "owner": "aio-libs",
             "repo": "aiomysql",
-            "stars": 1897
+            "stars": 1897,
+            "topics": [
+              "aiomysql",
+              "async",
+              "asyncio",
+              "mariadb",
+              "mysql",
+              "python",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -278,12 +475,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asyncio cache manager for redis, memcached and memory",
+            "homepage": "http://aiocache.readthedocs.io",
             "id": 69653334,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-28T20:08:27Z",
+            "open_issues": 67,
             "owner": "aio-libs",
             "repo": "aiocache",
-            "stars": 1438
+            "stars": 1438,
+            "topics": [
+              "asyncio",
+              "cache",
+              "cachemanager",
+              "memcached",
+              "python-3",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -294,12 +503,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aiopg is a library for accessing a PostgreSQL database from the asyncio",
+            "homepage": "http://aiopg.rtfd.io",
             "id": 18398494,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-12-03T21:01:33Z",
+            "open_issues": 88,
             "owner": "aio-libs",
             "repo": "aiopg",
-            "stars": 1432
+            "stars": 1432,
+            "topics": [
+              "asyncio",
+              "postgresql",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -310,12 +528,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous interface for peewee ORM powered by asyncio",
+            "homepage": "http://peewee-async-lib.readthedocs.io",
             "id": 24544015,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:33:51Z",
+            "open_issues": 3,
             "owner": "05bit",
             "repo": "peewee-async",
-            "stars": 763
+            "stars": 763,
+            "topics": [
+              "asyncio",
+              "mysql",
+              "orm",
+              "peewee",
+              "postgresql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -326,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis client for Python asyncio (PEP 3156)",
+            "homepage": "http://asyncio-redis.readthedocs.org/",
             "id": 13547040,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-11T13:56:53Z",
+            "open_issues": 51,
             "owner": "jonathanslenders",
             "repo": "asyncio-redis",
-            "stars": 549
+            "stars": 549,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -342,12 +577,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper around asyncpg for use with sqlalchemy",
+            "homepage": null,
             "id": 63980116,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-17T13:41:22Z",
+            "open_issues": 15,
             "owner": "CanopyTax",
             "repo": "asyncpgsa",
-            "stars": 506
+            "stars": 506,
+            "topics": [
+              "asyncio",
+              "postgres",
+              "python",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -358,12 +603,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aioodbc - is a library for accessing a ODBC databases from the asyncio",
+            "homepage": null,
             "id": 39036054,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-28T21:35:34Z",
+            "open_issues": 39,
             "owner": "aio-libs",
             "repo": "aioodbc",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "async-await",
+              "asyncio",
+              "hacktoberfest",
+              "mysql",
+              "odbc",
+              "oracle",
+              "postgresql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -374,12 +633,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Asynchronous Python client for InfluxDB",
+            "homepage": null,
             "id": 93475529,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-05T06:01:48Z",
+            "open_issues": 12,
             "owner": "gusutabopb",
             "repo": "aioinflux",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "databases",
+              "influxdb"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -390,12 +659,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal asyncio memcached client",
+            "homepage": null,
             "id": 16504228,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-08T15:48:07Z",
+            "open_issues": 18,
             "owner": "aio-libs",
             "repo": "aiomcache",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "asyncio",
+              "memcached"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -406,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "asyncio compatible driver for elasticsearch",
+            "homepage": "http://aioes.readthedocs.org",
             "id": 22916870,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-29T06:12:23Z",
+            "open_issues": 16,
             "owner": "aio-libs-abandoned",
             "repo": "aioes",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -422,12 +704,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CouchDB client built on top of aiohttp (asyncio)",
+            "homepage": null,
             "id": 21313655,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-05-09T08:36:04Z",
+            "open_issues": 8,
             "owner": "aio-libs",
             "repo": "aiocouchdb",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "couchdb"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -444,12 +735,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for building WebSocket servers and clients in Python",
+            "homepage": "https://websockets.readthedocs.io/",
             "id": 9113587,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T16:01:19Z",
+            "open_issues": 1,
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5715
+            "stars": 5715,
+            "topics": [
+              "python",
+              "python3",
+              "websocket",
+              "websocket-client",
+              "websocket-library",
+              "websocket-server",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -460,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework.",
+            "homepage": null,
             "id": 15503123,
             "language": "Python",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-16T00:03:07Z",
+            "open_issues": 15,
             "owner": "ronf",
             "repo": "asyncssh",
-            "stars": 1754
+            "stars": 1754,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -476,12 +785,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple DNS resolver for asyncio",
+            "homepage": "https://pypi.org/p/aiodns",
             "id": 18157561,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T15:33:49Z",
+            "open_issues": 15,
             "owner": "aio-libs",
             "repo": "aiodns",
-            "stars": 592
+            "stars": 592,
+            "topics": [
+              "asyncio",
+              "dns",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -492,12 +810,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async requests-like httplib for python.",
+            "homepage": null,
             "id": 80945517,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-17T11:06:32Z",
+            "open_issues": 39,
             "owner": "theelous3",
             "repo": "asks",
-            "stars": 512
+            "stars": 512,
+            "topics": [
+              "async",
+              "async-requests",
+              "concurrency",
+              "curio",
+              "http",
+              "io",
+              "network",
+              "python3",
+              "requests",
+              "trio"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -508,12 +842,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ftp client/server for asyncio (https://aioftp.rtfd.io/)",
+            "homepage": null,
             "id": 33934261,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T11:45:54Z",
+            "open_issues": 26,
             "owner": "aio-libs",
             "repo": "aioftp",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "asyncio",
+              "ftp",
+              "ftp-client",
+              "ftp-server",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -530,12 +875,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+            "homepage": "https://scrapy.org",
             "id": 529502,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:53:19Z",
+            "open_issues": 448,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64082
+            "stars": 64081,
+            "topics": [
+              "crawler",
+              "crawling",
+              "framework",
+              "hacktoberfest",
+              "python",
+              "scraping",
+              "web-scraping",
+              "web-scraping-python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -546,12 +905,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async Python 3.6+ web scraping micro-framework based on asyncio",
+            "homepage": "https://www.howie6879.com/ruia/",
             "id": 140359487,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-01T08:23:28Z",
+            "open_issues": 9,
             "owner": "howie6879",
             "repo": "ruia",
-            "stars": 1738
+            "stars": 1738,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "asyncio-spider",
+              "crawler",
+              "crawling-framework",
+              "middlewares",
+              "python",
+              "python-ruia",
+              "ruia",
+              "spider",
+              "uvloop"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -562,12 +938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taken Over By Shad0w For Responsible Disclosure [Kiwi BBP]",
+            "homepage": null,
             "id": 1039640276,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-17T17:08:33Z",
+            "open_issues": 0,
             "owner": "gaojiuli",
             "repo": "gain",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -584,12 +965,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asyncio support for pytest",
+            "homepage": "https://pytest-asyncio.readthedocs.io",
             "id": 33756412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:16:01Z",
+            "open_issues": 51,
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
-            "stars": 1659
+            "stars": 1659,
+            "topics": [
+              "asyncio",
+              "pytest-plugin",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -600,12 +991,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aioresponses is a helper for mock/fake web requests in python aiohttp package.",
+            "homepage": null,
             "id": 71044055,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-23T21:15:11Z",
+            "open_issues": 65,
             "owner": "pnuckowski",
             "repo": "aioresponses",
-            "stars": 557
+            "stars": 557,
+            "topics": [
+              "aiohttp",
+              "asyncio",
+              "mocking",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -616,12 +1017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhance the standard unittest package with features for testing asyncio libraries",
+            "homepage": "https://asynctest.readthedocs.org/",
             "id": 33410140,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T12:09:21Z",
+            "open_issues": 50,
             "owner": "Martiusweb",
             "repo": "asynctest",
-            "stars": 310
+            "stars": 310,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -632,12 +1038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a version of pythons unittest.Mock with async methods",
+            "homepage": null,
             "id": 67825866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-19T04:04:47Z",
+            "open_issues": 0,
             "owner": "nhumrich",
             "repo": "aiomock",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -654,12 +1065,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra fast asyncio event loop.",
+            "homepage": null,
             "id": 45766550,
             "language": "Cython",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T16:30:56Z",
+            "open_issues": 156,
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11890
+            "stars": 11890,
+            "topics": [
+              "async",
+              "async-await",
+              "async-python",
+              "asyncio",
+              "event-loop",
+              "high-performance",
+              "libuv",
+              "networking",
+              "python",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -670,12 +1097,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trio – a friendly Python library for async concurrency and I/O",
+            "homepage": "https://trio.readthedocs.io",
             "id": 79083614,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T03:44:56Z",
+            "open_issues": 322,
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7308
+            "stars": 7308,
+            "topics": [
+              "async",
+              "async-await",
+              "io",
+              "networking",
+              "python",
+              "structured-concurrency",
+              "trio"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -686,12 +1126,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Good Curio!",
+            "homepage": null,
             "id": 44054354,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-21T15:48:55Z",
+            "open_issues": 27,
             "owner": "dabeaz",
             "repo": "curio",
-            "stars": 4125
+            "stars": 4125,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -708,12 +1153,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take a modern Python codebase to the next level of performance.",
+            "homepage": "https://aiomultiprocess.omnilib.dev",
             "id": 128676320,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-20T15:43:49Z",
+            "open_issues": 49,
             "owner": "omnilib",
             "repo": "aiomultiprocess",
-            "stars": 1926
+            "stars": 1926,
+            "topics": [
+              "async",
+              "asyncio",
+              "hacktoberfest",
+              "multiprocessing",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -724,12 +1181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for asynchronous programming",
+            "homepage": null,
             "id": 63092490,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T03:15:54Z",
+            "open_issues": 11,
             "owner": "quora",
             "repo": "asynq",
-            "stars": 697
+            "stars": 697,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -740,12 +1202,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python 3.5+ library that integrates the multiprocessing module with asyncio",
+            "homepage": null,
             "id": 22361744,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-16T02:30:02Z",
+            "open_issues": 7,
             "owner": "dano",
             "repo": "aioprocessing",
-            "stars": 660
+            "stars": 660,
+            "topics": [
+              "asyncio",
+              "coroutines",
+              "multiprocessing",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -762,12 +1234,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Stream Processing",
+            "homepage": null,
             "id": 84353800,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-27T10:27:41Z",
+            "open_issues": 279,
             "owner": "robinhood",
             "repo": "faust",
-            "stars": 6825
+            "stars": 6825,
+            "topics": [
+              "asyncio",
+              "distributed-systems",
+              "kafka",
+              "kafka-streams",
+              "python",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -778,12 +1262,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File support for asyncio",
+            "homepage": null,
             "id": 33088125,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:45:19Z",
+            "open_issues": 58,
             "owner": "Tinche",
             "repo": "aiofiles",
-            "stars": 3255
+            "stars": 3255,
+            "topics": [
+              "asyncio"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -794,12 +1285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A \"run\" function for asyncio-based apps that does all the boilerplate.",
+            "homepage": null,
             "id": 107533067,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T15:33:54Z",
+            "open_issues": 2,
             "owner": "cjrh",
             "repo": "aiorun",
-            "stars": 468
+            "stars": 468,
+            "topics": [
+              "async",
+              "async-await",
+              "asynchronous",
+              "asynchronous-tasks",
+              "asyncio",
+              "asyncio-python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -810,12 +1313,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small utility library for coroutine-driven asynchronous generic programming in Python",
+            "homepage": "http://paco.rtfd.io",
             "id": 70951500,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-24T17:35:57Z",
+            "open_issues": 8,
             "owner": "h2non",
             "repo": "paco",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "asynchronous",
+              "asyncio",
+              "coroutines",
+              "generic-programming",
+              "library",
+              "python",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -826,12 +1342,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed tracing instrumentation for asyncio with zipkin",
+            "homepage": null,
             "id": 105470666,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T16:26:44Z",
+            "open_issues": 23,
             "owner": "aio-libs",
             "repo": "aiozipkin",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "aiohttp",
+              "async-await",
+              "asyncio",
+              "dapper",
+              "distributed-tracing",
+              "jaeger",
+              "mypy",
+              "stackdriver",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -842,12 +1373,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Idiomatic asyncio utilties",
+            "homepage": "https://aiotools.readthedocs.io",
             "id": 88231996,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T07:14:04Z",
+            "open_issues": 9,
             "owner": "achimnol",
             "repo": "aiotools",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "asyncio",
+              "library",
+              "python",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -858,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebRTC and ORTC implementation for Python using asyncio",
+            "homepage": null,
             "id": 241751447,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-13T19:14:05Z",
+            "open_issues": 0,
             "owner": "jlaine",
             "repo": "aiortc",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         },
@@ -874,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny library for monitoring and testing asyncio programs",
+            "homepage": "https://gitlab.com/quantlane/libs/aiodebug",
             "id": 72115546,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-04T11:03:50Z",
+            "open_issues": 0,
             "owner": "qntln",
             "repo": "aiodebug",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
         }
@@ -888,15 +1439,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:02:57.142Z",
+    "last_updated": "2026-08-29T04:41:16.994Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源",
+      "homepage": "https://awesome-asyncio-cn.chenjiandongx.com/",
       "id": 143005431,
       "language": "Makefile",
+      "license": "NOASSERTION",
       "last_commit": "2019-09-15T06:47:21Z",
+      "open_issues": 0,
       "owner": "chenjiandongx",
       "repo": "awesome-asyncio-cn",
-      "stars": 640
+      "stars": 640,
+      "topics": [
+        "asyncio",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "268c942ed738a80a27b4bf1cde8180c5489bd90b",
     "enhanced_repository": "enhansome/enhansome-asyncio-cn",
