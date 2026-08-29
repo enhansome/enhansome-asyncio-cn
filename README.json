@@ -46,11 +46,11 @@
             "id": 13258039,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:18:24Z",
-            "open_issues": 225,
+            "last_commit": "2026-08-29T16:23:42Z",
+            "open_issues": 228,
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16532,
+            "stars": 16535,
             "topics": [
               "aiohttp",
               "async",
@@ -76,11 +76,11 @@
             "id": 92946971,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T22:48:46Z",
+            "last_commit": "2026-08-29T09:02:15Z",
             "open_issues": 87,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10933,
+            "stars": 10934,
             "topics": [
               "asgi",
               "asyncio",
@@ -124,7 +124,7 @@
             "id": 9113587,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T16:01:19Z",
+            "last_commit": "2026-08-29T16:46:58Z",
             "open_issues": 1,
             "owner": "python-websockets",
             "repo": "websockets",
@@ -740,7 +740,7 @@
             "id": 9113587,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T16:01:19Z",
+            "last_commit": "2026-08-29T16:46:58Z",
             "open_issues": 1,
             "owner": "python-websockets",
             "repo": "websockets",
@@ -884,7 +884,7 @@
             "open_issues": 448,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64081,
+            "stars": 64096,
             "topics": [
               "crawler",
               "crawling",
@@ -1074,7 +1074,7 @@
             "open_issues": 156,
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11890,
+            "stars": 11894,
             "topics": [
               "async",
               "async-await",
@@ -1294,7 +1294,7 @@
             "open_issues": 2,
             "owner": "cjrh",
             "repo": "aiorun",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "async",
               "async-await",
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:16.994Z",
+    "last_updated": "2026-08-29T17:08:36.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源",
