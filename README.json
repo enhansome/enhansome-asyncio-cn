@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-29T03:09:51Z",
-            "open_issues": 148,
+            "open_issues": 147,
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18642,
+            "stars": 18641,
             "topics": [
               "api-server",
               "asgi",
@@ -46,8 +46,8 @@
             "id": 13258039,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T11:16:21Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-05T15:49:21Z",
+            "open_issues": 213,
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16532,
@@ -80,7 +80,7 @@
             "open_issues": 88,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10940,
+            "stars": 10942,
             "topics": [
               "asgi",
               "asyncio",
@@ -107,7 +107,7 @@
             "open_issues": 89,
             "owner": "squeaky-pl",
             "repo": "japronto",
-            "stars": 8530,
+            "stars": 8529,
             "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5715,
+            "stars": 5714,
             "topics": [
               "python",
               "python3",
@@ -335,7 +335,7 @@
             "open_issues": 304,
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8079,
+            "stars": 8080,
             "topics": [
               "async-programming",
               "async-python",
@@ -744,7 +744,7 @@
             "open_issues": 2,
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5715,
+            "stars": 5714,
             "topics": [
               "python",
               "python3",
@@ -769,7 +769,7 @@
             "id": 15503123,
             "language": "Python",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-04T16:51:19Z",
+            "last_commit": "2026-09-05T15:45:00Z",
             "open_issues": 15,
             "owner": "ronf",
             "repo": "asyncssh",
@@ -884,7 +884,7 @@
             "open_issues": 421,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64197,
+            "stars": 64208,
             "topics": [
               "crawler",
               "crawling",
@@ -971,7 +971,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T19:29:49Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
             "stars": 1661,
@@ -1103,7 +1103,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T03:20:14Z",
-            "open_issues": 325,
+            "open_issues": 326,
             "owner": "python-trio",
             "repo": "trio",
             "stars": 7315,
@@ -1190,7 +1190,7 @@
             "open_issues": 11,
             "owner": "quora",
             "repo": "asynq",
-            "stars": 697,
+            "stars": 696,
             "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:52:46.458Z",
+    "last_updated": "2026-09-05T16:05:07.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源",
