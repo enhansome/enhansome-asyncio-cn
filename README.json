@@ -19,7 +19,7 @@
             "open_issues": 148,
             "owner": "sanic-org",
             "repo": "sanic",
-            "stars": 18640,
+            "stars": 18639,
             "topics": [
               "api-server",
               "asgi",
@@ -46,11 +46,11 @@
             "id": 13258039,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T13:43:33Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-10T11:27:14Z",
+            "open_issues": 215,
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16546,
+            "stars": 16547,
             "topics": [
               "aiohttp",
               "async",
@@ -77,10 +77,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-09T07:23:55Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 10953,
+            "stars": 10954,
             "topics": [
               "asgi",
               "asyncio",
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5715,
+            "stars": 5716,
             "topics": [
               "python",
               "python3",
@@ -157,7 +157,7 @@
             "open_issues": 187,
             "owner": "crossbario",
             "repo": "autobahn-python",
-            "stars": 2541,
+            "stars": 2542,
             "topics": [
               "autobahn",
               "pubsub",
@@ -332,10 +332,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-02-27T20:48:41Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "MagicStack",
             "repo": "asyncpg",
-            "stars": 8086,
+            "stars": 8087,
             "topics": [
               "async-programming",
               "async-python",
@@ -744,7 +744,7 @@
             "open_issues": 2,
             "owner": "python-websockets",
             "repo": "websockets",
-            "stars": 5715,
+            "stars": 5716,
             "topics": [
               "python",
               "python3",
@@ -880,11 +880,11 @@
             "id": 529502,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T11:01:37Z",
-            "open_issues": 400,
+            "last_commit": "2026-09-10T15:17:15Z",
+            "open_issues": 391,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 64262,
+            "stars": 64273,
             "topics": [
               "crawler",
               "crawling",
@@ -970,8 +970,8 @@
             "id": 33756412,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T19:56:49Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-09T19:07:50Z",
+            "open_issues": 51,
             "owner": "pytest-dev",
             "repo": "pytest-asyncio",
             "stars": 1662,
@@ -1074,7 +1074,7 @@
             "open_issues": 159,
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11899,
+            "stars": 11898,
             "topics": [
               "async",
               "async-await",
@@ -1103,10 +1103,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T22:29:47Z",
-            "open_issues": 323,
+            "open_issues": 326,
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7316,
+            "stars": 7317,
             "topics": [
               "async",
               "async-await",
@@ -1135,7 +1135,7 @@
             "open_issues": 27,
             "owner": "dabeaz",
             "repo": "curio",
-            "stars": 4126,
+            "stars": 4125,
             "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
@@ -1439,7 +1439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:09:51.283Z",
+    "last_updated": "2026-09-10T17:00:07.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源",
