@@ -48,11 +48,11 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 *构建 Web 应用的库*
 
 * [sanic](https://github.com/channelcat/sanic) ⭐ 18,636 | 🐛 154 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ Web 服务器，主打速度与性能。
-* [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,567 | 🐛 217 | 🌐 Python | 📅 2026-10-02 - 支持 Asyncio (PEP-3156) 的 HTTP 客户端/服务端网络库。
-* [uvicorn](https://github.com/encode/uvicorn) ⭐ 11,003 | 🐛 108 | 🌐 Python | 📅 2026-10-02 - 轻量级的，快速的 ASGI 服务器。
+* [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,567 | 🐛 220 | 🌐 Python | 📅 2026-10-03 - 支持 Asyncio (PEP-3156) 的 HTTP 客户端/服务端网络库。
+* [uvicorn](https://github.com/encode/uvicorn) ⭐ 11,006 | 🐛 108 | 🌐 Python | 📅 2026-10-02 - 轻量级的，快速的 ASGI 服务器。
 * [Japronto!](https://github.com/squeaky-pl/japronto) ⭐ 8,528 | 🐛 89 | 🌐 C | 📅 2023-08-14 - 基于 uvloop 和 picohttpparse 构建的实验性 HTTP 工具箱。
-* [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,722 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - Python 构建的 WebSocket 客户端/服务端的库，致力于简洁、正确地编写代码。
-* [autobahn](https://github.com/crossbario/autobahn-python) ⭐ 2,541 | 🐛 199 | 🌐 Python | 📅 2026-09-29 - 支持 Asyncio 与 Twisted 的 WebSocket 及 WAMP，用于客户端与服务端。
+* [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,723 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Python 构建的 WebSocket 客户端/服务端的库，致力于简洁、正确地编写代码。
+* [autobahn](https://github.com/crossbario/autobahn-python) ⭐ 2,542 | 🐛 199 | 🌐 Python | 📅 2026-09-29 - 支持 Asyncio 与 Twisted 的 WebSocket 及 WAMP，用于客户端与服务端。
 * [Kyoukai](https://github.com/SunDwarf/Kyoukai) ⚠️ Archived - 使用 Asyncio 编写的 Python3.5+ 完全异步 Web 框架。
 * [cirrina](https://github.com/neolynx/cirrina) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2024-06-11 - 基于 aiohttp 的异步 Web 框架。
 * [Quart](https://gitlab.com/pgjones/quart) - 支持 Asyncio 的 Web 微框架，使用与 Flask 相同的 API。
@@ -70,14 +70,14 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *数据库的驱动库*
 
-* [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,097 | 🐛 273 | 🌐 Python | 📅 2026-10-03 - 快速访问 PostgreSQL 数据库客户端的异步驱动。
-* [GINO](https://github.com/fantix/gino) ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12 - 基于 [SQLAlchemy](https://www.sqlalchemy.org/) Core 和 [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,097 | 🐛 273 | 🌐 Python | 📅 2026-10-03 方言的轻量级 Python 异步 ORM。
+* [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,096 | 🐛 273 | 🌐 Python | 📅 2026-10-03 - 快速访问 PostgreSQL 数据库客户端的异步驱动。
+* [GINO](https://github.com/fantix/gino) ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12 - 基于 [SQLAlchemy](https://www.sqlalchemy.org/) Core 和 [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,096 | 🐛 273 | 🌐 Python | 📅 2026-10-03 方言的轻量级 Python 异步 ORM。
 * [motor](https://github.com/mongodb/motor) ⭐ 2,526 | 🐛 2 | 🌐 Python | 📅 2026-09-30 - 访问 MongoDB 数据库的异步驱动。
 * [aioredis](https://github.com/aio-libs/aioredis) ⚠️ Archived - [aio-libs](https://github.com/aio-libs) 提供的异步 Redis 客户端 (PEP 3156)。
 * [aiomysql](https://github.com/aio-libs/aiomysql) ⭐ 1,895 | 🐛 122 | 🌐 Python | 📅 2026-03-27 - 访问 MySQL 数据库的异步驱动。
 * [aiocache](https://github.com/argaen/aiocache) ⭐ 1,437 | 🐛 67 | 🌐 Python | 📅 2026-06-28 - 支持多个后端 (Memory、Redis 和 Memcached) 的 Asyncio 缓存管理器。
 * [aiopg](https://github.com/aio-libs/aiopg/) ⭐ 1,432 | 🐛 88 | 🌐 Python | 📅 2025-12-03 - 访问 PostgreSQL 数据库的异步驱动。
-* [peewee-async](https://github.com/05bit/peewee-async) ⭐ 762 | 🐛 4 | 🌐 Python | 📅 2026-09-28 - 基于 [peewee](https://github.com/coleifer/peewee) ⭐ 11,996 | 🐛 0 | 🌐 Python | 📅 2026-10-02 和 aiopg 实现的 ORM。
+* [peewee-async](https://github.com/05bit/peewee-async) ⭐ 762 | 🐛 4 | 🌐 Python | 📅 2026-09-28 - 基于 [peewee](https://github.com/coleifer/peewee) ⭐ 11,995 | 🐛 0 | 🌐 Python | 📅 2026-10-03 和 aiopg 实现的 ORM。
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) ⭐ 549 | 🐛 51 | 🌐 Python | 📅 2020-08-11 - 访问 Redis 客户端 (PEP 3156)的异步驱动。
 * [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) ⭐ 505 | 🐛 15 | 🌐 Python | 📅 2024-02-17 - 提供 Sqlalchemy Core 支持的 Asyncpg。
 * [aioodbc](https://github.com/aio-libs/aioodbc) ⭐ 325 | 🐛 39 | 🌐 Python | 📅 2023-10-28 - 访问 ODBC 数据库的异步驱动。
@@ -90,17 +90,17 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *网络通讯库*
 
-* [websockets](https://github.com/aaugustin/websockets) ⭐ 5,722 | 🐛 3 | 🌐 Python | 📅 2026-09-24 构建于 Asyncio 之上的异步 websockets 库。
+* [websockets](https://github.com/aaugustin/websockets) ⭐ 5,723 | 🐛 0 | 🌐 Python | 📅 2026-10-03 构建于 Asyncio 之上的异步 websockets 库。
 * [AsyncSSH](https://github.com/ronf/asyncssh) ⭐ 1,760 | 🐛 18 | 🌐 Python | 📅 2026-10-03 - 提供执行 SSHv2 协议的异步客户端/服务端。
 * [aiodns](https://github.com/saghul/aiodns) ⭐ 592 | 🐛 14 | 🌐 Python | 📅 2026-09-28 - 简单的 Asyncio DNS 服务解析器。
-* [asks](https://github.com/theelous3/asks) ⭐ 512 | 🐛 39 | 🌐 Python | 📅 2022-05-17 - 与 [requests](https://github.com/requests/requests) ⭐ 54,371 | 🐛 242 | 🌐 Python | 📅 2026-09-28 接口相似的异步 HTTP 库。
+* [asks](https://github.com/theelous3/asks) ⭐ 512 | 🐛 39 | 🌐 Python | 📅 2022-05-17 - 与 [requests](https://github.com/requests/requests) ⭐ 54,379 | 🐛 242 | 🌐 Python | 📅 2026-09-28 接口相似的异步 HTTP 库。
 * [aioftp](https://github.com/aio-libs/aioftp) ⭐ 211 | 🐛 30 | 🌐 Python | 📅 2026-09-19 - 基于 Asyncio 的 ftp 服务。
 
 ## 爬虫
 
 *应用于网络爬虫的库*
 
-* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,557 | 🐛 313 | 🌐 Python | 📅 2026-10-02 - 一个为了爬取网站数据，提取结构性数据而编写的应用框架。
+* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,565 | 🐛 317 | 🌐 Python | 📅 2026-10-03 - 一个为了爬取网站数据，提取结构性数据而编写的应用框架。
 * [aspider](https://github.com/howie6879/aspider) ⭐ 1,738 | 🐛 9 | 🌐 Python | 📅 2026-09-17 - 基于 Asyncio 和 aiohttp 的网络爬虫框架。
 * [gain](https://github.com/gaojiuli/gain) ⭐ 0 | 🐛 0 | 📅 2025-08-17 - 基于 Asycnio 的网络爬虫框架。
 
