@@ -16,7 +16,7 @@
     </a>
 </p>
 
-[Awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,135 | 🐛 25 | 📅 2025-12-01 是 [Timo Furrer](https://github.com/timofurrer) 发起并维护的 Python Asyncio 资源列表。我觉得这个是很赞的想法，所以维护了一个中文版本的，在这里，收集了大量的 [Asyncio](https://docs.python.org/3/library/asyncio.html) 的最棒、最新的资源，供大家探索 Python 异步编程世界。
+[Awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,136 | 🐛 25 | 📅 2025-12-01 是 [Timo Furrer](https://github.com/timofurrer) 发起并维护的 Python Asyncio 资源列表。我觉得这个是很赞的想法，所以维护了一个中文版本的，在这里，收集了大量的 [Asyncio](https://docs.python.org/3/library/asyncio.html) 的最棒、最新的资源，供大家探索 Python 异步编程世界。
 
 Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O 访问 Socket 和其他资源来编写单线程并发代码，并在网络客户端与服务器上运行。Asyncio 内置了对异步 I/O 的支持，其编程模型类似于消息循环，从 Asyncio 模块可以直接获取 EventLoop 引用，再把需要执行的协程放到 EventLoop 中执行，就实现了异步 I/O。Asyncio 是由 Python 之父 Guido 领导的项目，该项目被命名为 Tulip（郁金香）。
 
@@ -47,11 +47,11 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *构建 Web 应用的库*
 
-* [sanic](https://github.com/channelcat/sanic) ⭐ 18,638 | 🐛 159 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ Web 服务器，主打速度与性能。
-* [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,574 | 🐛 234 | 🌐 Python | 📅 2026-10-16 - 支持 Asyncio (PEP-3156) 的 HTTP 客户端/服务端网络库。
-* [uvicorn](https://github.com/encode/uvicorn) ⭐ 11,016 | 🐛 105 | 🌐 Python | 📅 2026-10-11 - 轻量级的，快速的 ASGI 服务器。
+* [sanic](https://github.com/channelcat/sanic) ⭐ 18,639 | 🐛 160 | 🌐 Python | 📅 2026-07-29 - Python 3.5+ Web 服务器，主打速度与性能。
+* [aiohttp](https://github.com/KeepSafe/aiohttp) ⭐ 16,576 | 🐛 236 | 🌐 Python | 📅 2026-10-16 - 支持 Asyncio (PEP-3156) 的 HTTP 客户端/服务端网络库。
+* [uvicorn](https://github.com/encode/uvicorn) ⭐ 11,018 | 🐛 106 | 🌐 Python | 📅 2026-10-11 - 轻量级的，快速的 ASGI 服务器。
 * [Japronto!](https://github.com/squeaky-pl/japronto) ⭐ 8,525 | 🐛 89 | 🌐 C | 📅 2023-08-14 - 基于 uvloop 和 picohttpparse 构建的实验性 HTTP 工具箱。
-* [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,733 | 🐛 1 | 🌐 Python | 📅 2026-10-15 - Python 构建的 WebSocket 客户端/服务端的库，致力于简洁、正确地编写代码。
+* [websockets](https://github.com/aaugustin/websockets/) ⭐ 5,733 | 🐛 1 | 🌐 Python | 📅 2026-10-17 - Python 构建的 WebSocket 客户端/服务端的库，致力于简洁、正确地编写代码。
 * [autobahn](https://github.com/crossbario/autobahn-python) ⭐ 2,540 | 🐛 198 | 🌐 Python | 📅 2026-10-14 - 支持 Asyncio 与 Twisted 的 WebSocket 及 WAMP，用于客户端与服务端。
 * [Kyoukai](https://github.com/SunDwarf/Kyoukai) ⚠️ Archived - 使用 Asyncio 编写的 Python3.5+ 完全异步 Web 框架。
 * [cirrina](https://github.com/neolynx/cirrina) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2024-06-11 - 基于 aiohttp 的异步 Web 框架。
@@ -62,7 +62,7 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *使用消息队列执行应用的库*
 
-* [crossbar](https://github.com/crossbario/crossbar) ⭐ 2,062 | 🐛 309 | 🌐 Python | 📅 2026-10-12 - Crossbar.io 是提供分布式和微服务应用的网络平台。
+* [crossbar](https://github.com/crossbario/crossbar) ⭐ 2,062 | 🐛 310 | 🌐 Python | 📅 2026-10-12 - Crossbar.io 是提供分布式和微服务应用的网络平台。
 * [aiozmq](https://github.com/aio-libs/aiozmq) ⭐ 430 | 🐛 33 | 🌐 Python | 📅 2026-03-26 - 集成了 Asyncio (pep 3156) 的 ZeroMQ。
 * [aioamqp](https://github.com/Polyconseil/aioamqp) ⭐ 281 | 🐛 35 | 🌐 Python | 📅 2023-05-19 - 使用 Asyncio 异步执行 AMQP。
 
@@ -70,8 +70,8 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *数据库的驱动库*
 
-* [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,108 | 🐛 278 | 🌐 Python | 📅 2026-10-08 - 快速访问 PostgreSQL 数据库客户端的异步驱动。
-* [GINO](https://github.com/fantix/gino) ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12 - 基于 [SQLAlchemy](https://www.sqlalchemy.org/) Core 和 [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,108 | 🐛 278 | 🌐 Python | 📅 2026-10-08 方言的轻量级 Python 异步 ORM。
+* [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,110 | 🐛 280 | 🌐 Python | 📅 2026-10-08 - 快速访问 PostgreSQL 数据库客户端的异步驱动。
+* [GINO](https://github.com/fantix/gino) ⭐ 2,789 | 🐛 54 | 🌐 Python | 📅 2022-02-12 - 基于 [SQLAlchemy](https://www.sqlalchemy.org/) Core 和 [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,110 | 🐛 280 | 🌐 Python | 📅 2026-10-08 方言的轻量级 Python 异步 ORM。
 * [motor](https://github.com/mongodb/motor) ⭐ 2,525 | 🐛 0 | 🌐 Python | 📅 2026-10-16 - 访问 MongoDB 数据库的异步驱动。
 * [aioredis](https://github.com/aio-libs/aioredis) ⚠️ Archived - [aio-libs](https://github.com/aio-libs) 提供的异步 Redis 客户端 (PEP 3156)。
 * [aiomysql](https://github.com/aio-libs/aiomysql) ⭐ 1,896 | 🐛 127 | 🌐 Python | 📅 2026-10-12 - 访问 MySQL 数据库的异步驱动。
@@ -90,17 +90,17 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *网络通讯库*
 
-* [websockets](https://github.com/aaugustin/websockets) ⭐ 5,733 | 🐛 1 | 🌐 Python | 📅 2026-10-15 构建于 Asyncio 之上的异步 websockets 库。
+* [websockets](https://github.com/aaugustin/websockets) ⭐ 5,733 | 🐛 1 | 🌐 Python | 📅 2026-10-17 构建于 Asyncio 之上的异步 websockets 库。
 * [AsyncSSH](https://github.com/ronf/asyncssh) ⭐ 1,761 | 🐛 13 | 🌐 Python | 📅 2026-10-10 - 提供执行 SSHv2 协议的异步客户端/服务端。
 * [aiodns](https://github.com/saghul/aiodns) ⭐ 592 | 🐛 15 | 🌐 Python | 📅 2026-10-12 - 简单的 Asyncio DNS 服务解析器。
-* [asks](https://github.com/theelous3/asks) ⭐ 512 | 🐛 39 | 🌐 Python | 📅 2022-05-17 - 与 [requests](https://github.com/requests/requests) ⭐ 54,461 | 🐛 244 | 🌐 Python | 📅 2026-09-28 接口相似的异步 HTTP 库。
+* [asks](https://github.com/theelous3/asks) ⭐ 512 | 🐛 39 | 🌐 Python | 📅 2022-05-17 - 与 [requests](https://github.com/requests/requests) ⭐ 54,472 | 🐛 244 | 🌐 Python | 📅 2026-09-28 接口相似的异步 HTTP 库。
 * [aioftp](https://github.com/aio-libs/aioftp) ⭐ 211 | 🐛 28 | 🌐 Python | 📅 2026-10-10 - 基于 Asyncio 的 ftp 服务。
 
 ## 爬虫
 
 *应用于网络爬虫的库*
 
-* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,854 | 🐛 223 | 🌐 Python | 📅 2026-10-16 - 一个为了爬取网站数据，提取结构性数据而编写的应用框架。
+* [Scrapy](https://github.com/scrapy/scrapy) ⭐ 64,866 | 🐛 217 | 🌐 Python | 📅 2026-10-17 - 一个为了爬取网站数据，提取结构性数据而编写的应用框架。
 * [aspider](https://github.com/howie6879/aspider) ⭐ 1,739 | 🐛 9 | 🌐 Python | 📅 2026-10-16 - 基于 Asyncio 和 aiohttp 的网络爬虫框架。
 * [gain](https://github.com/gaojiuli/gain) ⭐ 1 | 🐛 0 | 📅 2025-08-17 - 基于 Asycnio 的网络爬虫框架。
 
@@ -108,7 +108,7 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *测试 Asyncio 应用程序的库*
 
-* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) ⭐ 1,665 | 🐛 52 | 🌐 Python | 📅 2026-10-15 - 支持 Asyncio 的 Pytest 库。
+* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) ⭐ 1,665 | 🐛 52 | 🌐 Python | 📅 2026-10-16 - 支持 Asyncio 的 Pytest 库。
 * [aioresponses](https://github.com/pnuckowski/aioresponses) ⭐ 556 | 🐛 67 | 🌐 Python | 📅 2026-06-23 - 一个适用于 aiohttp 的模拟请求库。
 * [asynctest](https://github.com/Martiusweb/asynctest/) ⭐ 309 | 🐛 50 | 🌐 Python | 📅 2024-04-22 - 一个增强标准 unittest 包的测试库。
 * [aiomock](https://github.com/nhumrich/aiomock/) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2024-04-19 - 支持异步的 Python mock 库。
@@ -117,8 +117,8 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 *备选的 Asyncio 循环库*
 
-* [uvloop](https://github.com/MagicStack/uvloop) ⭐ 11,911 | 🐛 170 | 🌐 Cython | 📅 2026-10-06 - 基于 libuv 实现的 Asyncio 事件循环库。
-* [trio](https://github.com/python-trio/trio) ⭐ 7,346 | 🐛 334 | 🌐 Python | 📅 2026-10-13 - 人性化的，Pythonic 的异步 IO 库。
+* [uvloop](https://github.com/MagicStack/uvloop) ⭐ 11,910 | 🐛 170 | 🌐 Cython | 📅 2026-10-06 - 基于 libuv 实现的 Asyncio 事件循环库。
+* [trio](https://github.com/python-trio/trio) ⭐ 7,346 | 🐛 336 | 🌐 Python | 📅 2026-10-13 - 人性化的，Pythonic 的异步 IO 库。
 * [curio](https://github.com/dabeaz/curio) ⚠️ Archived - 协程并发库。
 
 ## 并行
@@ -166,4 +166,4 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
