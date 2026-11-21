@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T17:16:24Z",
-            "open_issues": 167,
+            "open_issues": 169,
             "owner": "sanic-org",
             "repo": "sanic",
             "stars": 18637,
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T17:28:38Z",
-            "open_issues": 331,
+            "open_issues": 336,
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16618,
+            "stars": 16619,
             "topics": [
               "aiohttp",
               "async",
@@ -80,7 +80,7 @@
             "open_issues": 107,
             "owner": "Kludex",
             "repo": "uvicorn",
-            "stars": 11121,
+            "stars": 11125,
             "topics": [
               "asgi",
               "asyncio",
@@ -107,7 +107,7 @@
             "open_issues": 88,
             "owner": "squeaky-pl",
             "repo": "japronto",
-            "stars": 8518,
+            "stars": 8517,
             "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
@@ -769,11 +769,11 @@
             "id": 15503123,
             "language": "Python",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-20T07:31:53Z",
+            "last_commit": "2026-11-21T19:23:59Z",
             "open_issues": 17,
             "owner": "ronf",
             "repo": "asyncssh",
-            "stars": 1768,
+            "stars": 1769,
             "topics": []
           },
           "first_seen": "2026-08-28T23:02:57.142Z"
@@ -884,7 +884,7 @@
             "open_issues": 170,
             "owner": "scrapy",
             "repo": "scrapy",
-            "stars": 65510,
+            "stars": 65528,
             "topics": [
               "crawler",
               "crawling",
@@ -1074,7 +1074,7 @@
             "open_issues": 178,
             "owner": "MagicStack",
             "repo": "uvloop",
-            "stars": 11944,
+            "stars": 11946,
             "topics": [
               "async",
               "async-await",
@@ -1106,7 +1106,7 @@
             "open_issues": 344,
             "owner": "python-trio",
             "repo": "trio",
-            "stars": 7367,
+            "stars": 7368,
             "topics": [
               "async",
               "async-await",
@@ -1438,7 +1438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:05:22.592Z",
+    "last_updated": "2026-11-21T20:05:48.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源",
